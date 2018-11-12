@@ -1,0 +1,107 @@
+
+
+.header {
+    margin-bottom: 50px;
+    margin-top: -30px;
+}
+
+.navbar {
+    margin-top: -10px;
+}
+
+input[type=text], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=date], select {
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 40px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+#email {
+    margin: 8px 30px;
+
+}
+
+#country {
+    margin: 8px 20px;
+
+}
+
+label {
+    margin: 8px 100px;
+}
+
+input[type=submit] {
+    width: 10%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 500px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+.radio {
+    margin: 0 0 0 300px;
+    margin-right: -70px;
+}
+
+textarea {
+    width: 50%;
+    height: 150px;
+    padding: 12px 20px;
+    margin-left: 300px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    font-size: 16px;
+    resize: none;
+}
+
+#member {
+    width: 60px;
+    height: 20px;
+    margin-left: 300px;
+    margin-right: -70px;
+    font-size: 14px;
+}
+
+div {
+    border-radius: 5px;
+    
+    padding: 20px;
+}
+
+form {
+    margin: 10px 50px 0 250px;
+    background-color: #f2f2f2;
+    width: 70%;
+    padding-top: 50px;
+}
+
+.info {
+    margin-left: 50px;
+    background-color: #538cc6;
+}
+
+section {
+    background-color: #538cc6;
+}
